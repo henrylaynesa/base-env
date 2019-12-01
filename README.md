@@ -6,7 +6,7 @@ Run
 ```s
 conda env create -f base-env.yml
 ```
-if you don't have it yet.
+if you don't have it yet. You can alternatively use requirements.txt.
 
 If base-env is already added to your device, run
 ```
